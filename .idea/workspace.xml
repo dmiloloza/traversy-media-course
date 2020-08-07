@@ -13,7 +13,7 @@
         <entry key="$PROJECT_DIR$/traversy-media-course" value="2" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/traversy-media-course" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fiSQwzPuBoEOr0Q66AhSteEvAl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,17 +51,34 @@
       <workItem from="1596704229338" duration="13874000" />
       <workItem from="1596780196196" duration="1035000" />
       <workItem from="1596782839842" duration="7836000" />
+      <workItem from="1596791572773" duration="357000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: added new text, buttons and links.">
+      <created>1596791792641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791792641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: added new text, buttons and links." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added new text, buttons and links." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1554" y="411" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596718650927">
       <screen x="0" y="0" width="2433" height="1329" />
     </state>
     <state x="1554" y="411" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596718650927" />
+    <state x="634" y="94" width="1236" height="1208" key="CommitChangelistDialog2" timestamp="1596791792147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="634" y="94" width="1236" height="1208" key="CommitChangelistDialog2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596791792147" />
     <state x="940" y="388" key="FileChooserDialogImpl" timestamp="1596699626978">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -85,10 +102,10 @@
     <state x="669" y="279" key="SettingsEditor/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596703574358" />
     <state x="702" y="293" key="SettingsEditor/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596713318337" />
     <state x="739" y="309" key="SettingsEditor/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596791362821" />
-    <state x="872" y="429" key="Vcs.Push.Dialog.v2" timestamp="1596790788430">
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2" timestamp="1596791817246">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="429" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596790788430" />
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596791817246" />
     <state x="1099" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596790622713">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
