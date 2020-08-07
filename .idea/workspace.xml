@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c8f8f35-971b-4266-96ae-9df0aa95234c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/traversy-media-course" value="2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/traversy-media-course" />
+  </component>
+  <component name="ProjectId" id="1fiSQwzPuBoEOr0Q66AhSteEvAl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmilo\Desktop\Projekti\Traversy Media crash course\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmilo\Desktop\Projekti\Traversy Media crash course\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c8f8f35-971b-4266-96ae-9df0aa95234c" name="Default Changelist" comment="" />
+      <created>1596699407344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596699407344</updated>
+      <workItem from="1596699408431" duration="2178000" />
+      <workItem from="1596701931915" duration="54000" />
+      <workItem from="1596701993225" duration="893000" />
+      <workItem from="1596702922620" duration="1149000" />
+      <workItem from="1596704229338" duration="13874000" />
+      <workItem from="1596780196196" duration="1035000" />
+      <workItem from="1596782839842" duration="7836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1554" y="411" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596718650927">
+      <screen x="0" y="0" width="2433" height="1329" />
+    </state>
+    <state x="1554" y="411" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596718650927" />
+    <state x="940" y="388" key="FileChooserDialogImpl" timestamp="1596699626978">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="940" y="388" key="FileChooserDialogImpl/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596699626978" />
+    <state x="1096" y="597" key="Github.CreateGistDialog" timestamp="1596791172624">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1042" y="567" key="Github.CreateGistDialog/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596721492857" />
+    <state x="1096" y="597" key="Github.CreateGistDialog/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596791172624" />
+    <state x="1042" y="562" key="Github.CreatePullRequestDialog" timestamp="1596790942483">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1042" y="562" key="Github.CreatePullRequestDialog/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596790942483" />
+    <state x="1118" y="603" key="Github.ShareDialog" timestamp="1596790826632">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1118" y="603" key="Github.ShareDialog/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596790826632" />
+    <state x="739" y="309" key="SettingsEditor" timestamp="1596791362821">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="669" y="279" key="SettingsEditor/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596703574358" />
+    <state x="702" y="293" key="SettingsEditor/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596713318337" />
+    <state x="739" y="309" key="SettingsEditor/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596791362821" />
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2" timestamp="1596790788430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596790788430" />
+    <state x="1099" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596790622713">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1099" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596790622713" />
+    <state x="902" y="329" width="672" height="677" key="run.anything.popup" timestamp="1596786943554">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="817" y="297" key="run.anything.popup/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596701390351" />
+    <state x="902" y="329" width="672" height="677" key="run.anything.popup/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596786943554" />
+    <state x="863" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1596712532503">
+      <screen x="0" y="0" width="2433" height="1329" />
+    </state>
+    <state x="822" y="282" key="search.everywhere.popup/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596701631737" />
+    <state x="863" y="296" width="672" height="678" key="search.everywhere.popup/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596712532503" />
+    <state x="882" y="538" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1596701712504">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="882" y="538" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596701712504" />
+  </component>
+</project>
