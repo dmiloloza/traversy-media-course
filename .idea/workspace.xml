@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8f8f35-971b-4266-96ae-9df0aa95234c" name="Default Changelist" comment="" />
+    <list default="true" id="5c8f8f35-971b-4266-96ae-9df0aa95234c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +38,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="master" />
         <entry key="$PROJECT_DIR$/traversy-media-course" value="2" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/traversy-media-course" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fiSQwzPuBoEOr0Q66AhSteEvAl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,15 +53,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmilo\Desktop\Projekti" />
       <recent name="C:\Users\dmilo\Desktop\Projekti\Traversy Media crash course\images" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dmilo\Desktop\Projekti\Traversy Media crash course\images" />
     </key>
   </component>
@@ -51,17 +81,73 @@
       <workItem from="1596704229338" duration="13874000" />
       <workItem from="1596780196196" duration="1035000" />
       <workItem from="1596782839842" duration="7836000" />
+      <workItem from="1596791572773" duration="382000" />
+      <workItem from="1596792092167" duration="5320000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: added new text, buttons and links.">
+      <created>1596791792641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791792641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: added new text, buttons and links.">
+      <created>1596791945946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596791945946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: added new text, buttons and links.#1">
+      <created>1596792186611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596792186611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: added new text, buttons and links." />
+    <MESSAGE value="feat: added new text, buttons and links.#1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added new text, buttons and links.#1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1554" y="411" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596718650927">
       <screen x="0" y="0" width="2433" height="1329" />
     </state>
     <state x="1554" y="411" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596718650927" />
+    <state x="634" y="94" width="1236" height="1208" key="CommitChangelistDialog2" timestamp="1596792186129">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="634" y="94" width="1236" height="1208" key="CommitChangelistDialog2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596792186129" />
     <state x="940" y="388" key="FileChooserDialogImpl" timestamp="1596699626978">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -85,10 +171,10 @@
     <state x="669" y="279" key="SettingsEditor/0.0.2318.1265/-1920.369.1739.939@0.0.2318.1265" timestamp="1596703574358" />
     <state x="702" y="293" key="SettingsEditor/0.0.2433.1329/-1920.369.1825.987@0.0.2433.1329" timestamp="1596713318337" />
     <state x="739" y="309" key="SettingsEditor/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596791362821" />
-    <state x="872" y="429" key="Vcs.Push.Dialog.v2" timestamp="1596790788430">
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2" timestamp="1596792193841">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="429" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596790788430" />
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.348.1280.680@0.0.2560.1400" timestamp="1596792193841" />
     <state x="1099" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596790622713">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

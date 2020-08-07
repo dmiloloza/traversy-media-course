@@ -19,8 +19,6 @@ a:hover{
     color: red ;
 }
 
-
-
 .container{
     width: 80%;
     margin: auto;
@@ -31,6 +29,10 @@ a:hover{
     color: #fff;
     padding: 10px 15px;
     border: none;
+}
+
+.clearfix{
+    clear: both;
 }
 
 .box-1 {
@@ -88,7 +90,27 @@ border: 1px #cccccc solid;
     width: 100%;
 }
 
+.block{
+    float:left;
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+}
 
+#main-block{
+    float: left;
+    width: 70% ;
+}
+
+#sidebar{
+    float: left;
+    width: 30% ;
+    background-color: #696969;
+    color: #d9d9d9;
+    padding: 15px;
+    box-sizing: border-box;
+}
 
 
 
